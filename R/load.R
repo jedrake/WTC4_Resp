@@ -25,6 +25,8 @@ Library(doBy)
 Library(plyr)
 Library(RColorBrewer)
 Library(reshape2)
+Library(RODBC)
+Library(magicaxis)
 
 source("R/functions.R")
 
